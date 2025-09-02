@@ -5,6 +5,9 @@ It has a single button, pressing it wakes up the MCU from standby and reads temp
 
 Consumes about 3.5mA in standby and about 6-8mA when active, and should run for several days up to a week on a 1300mAh battery.
 
+<img src="/thb-1.jpg" alt="pthb1" width="600"/></img>
+<img src="/thb-2.jpg" alt="pthb2" width="600"/></img>
+
 ## Seeeduino XIAO board:
 In Arduino IDE got to: `File -> Preferences -> Settings` and add the following URL to Additional boards manager URLs
 
