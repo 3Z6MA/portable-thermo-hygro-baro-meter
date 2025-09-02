@@ -1,7 +1,5 @@
 #include <Wire.h>
-#include <SPI.h>
 #include <Adafruit_BME280.h>
-#include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_SleepyDog.h>
 #include <ArduinoLowPower.h>
