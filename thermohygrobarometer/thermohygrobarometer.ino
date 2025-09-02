@@ -20,10 +20,6 @@ Adafruit_Sensor *bme_humidity = bme.getHumiditySensor();
 
 const char *BME_ERR = "BME280 Error!";
 
-const String tempr = "Temperature = ";
-const String press = "Pressure = ";
-const String humid = "Humidty = ";
-
 volatile bool wakeUp = false;
 
 void setup() {
